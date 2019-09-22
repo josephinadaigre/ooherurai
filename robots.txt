@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ujaeyaodo.trustlines.foundation/sitemap.xml
